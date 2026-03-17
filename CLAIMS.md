@@ -1321,7 +1321,7 @@ uninhabitable for the TM case — the bridge condition IS the regime question.
 
 ## 7. File Inventory
 
-**62 Lean files total**, categorized by role.
+**70 Lean files total**, categorized by role.
 
 ### ULC Refinement Tower (`WTS/Tower/`) — 13 files
 
@@ -1427,7 +1427,7 @@ ReturnPath axiom profile: **none** (ConstructiveOmega); propext + Quot.sound (al
 
 ### Totals
 
-- **~67 files**, 0 sorry
+- **70 files**, 0 sorry
 - **Tower**: 21 files, ~285 theorems (carrier architecture: ~205 across 9 files; core structures/forward implications axiom-free, iff-theorems use propext + Quot.sound, Classical.choice for witness extraction); propext + Quot.sound for older tower files
 - **ReturnPath**: 25 files, ~170 theorems, none (ConstructiveOmega/trivialModel_compatible_complete) or propext + Quot.sound
 - **Foundation + Transport**: 11 files, ~170 declarations, propext + Quot.sound

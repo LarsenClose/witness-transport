@@ -3,7 +3,7 @@
 
 # witness-transport
 
-Core definitions, the positive chain, the carrier architecture, transport theory, encoding invariance, and dynamic drift for the graded reflexive model framework. This is the foundational repository: it defines `GradedReflModel`, proves the forced splitting on Fix(selfApp), the naming extension iff-theorems, the `MinimalNecessityGradient`, the encoding invariance theory (`BoundedGRMEquiv`), the projectional atlas, the `CanonicalMirror` framework, and the dynamic drift generalization. ~69 Lean files, zero sorry.
+Core definitions, the positive chain, the carrier architecture, transport theory, encoding invariance, and dynamic drift for the graded reflexive model framework. This is the foundational repository: it defines `GradedReflModel`, proves the forced splitting on Fix(selfApp), the naming extension iff-theorems, the `MinimalNecessityGradient`, the encoding invariance theory (`BoundedGRMEquiv`), the projectional atlas, the `CanonicalMirror` framework, and the dynamic drift generalization. 70 Lean files, zero sorry.
 
 ## Build
 
